@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/find_new_friend_age_range_filter"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <RadioButton
+        android:id="@+id/find_new_friend_age_range1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/age_range1" />
+    <RadioButton
+        android:id="@+id/find_new_friend_age_range2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/age_range2" />
+    <RadioButton
+        android:id="@+id/find_new_friend_age_range3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/age_range3" />
+    <RadioButton
+        android:id="@+id/find_new_friend_age_range4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/age_range4" />
+    <RadioButton
+        android:id="@+id/find_new_friend_age_range5"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/age_range5" />
+    <RadioButton
+        android:id="@+id/find_new_friend_age_range6"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/age_range6" />
+    <RadioButton
+        android:id="@+id/find_new_friend_age_range7"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/age_range7" />
+    <RadioButton
+        android:id="@+id/find_new_friend_age_range8"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/age_range8" />
+
+
+</RadioGroup>

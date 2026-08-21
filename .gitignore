@@ -1,0 +1,12 @@
+.idea/
+.DS_Store
+
+# Local Android/Firebase credentials
+androidProgram/app/google-services.json
+androidProgram/app/*firebase-adminsdk*.json
+androidProgram/app/src/main/res/values/googleMap.xml
+
+# Generated release/demo artifacts may embed local credentials or user data
+items/*.apk
+items/*.aab
+items/*.mp4

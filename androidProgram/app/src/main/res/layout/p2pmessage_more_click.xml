@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/p2pmessage_more_click_selection"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/p2pmessage_more_click_bolck"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="48dp"
+        android:minWidth="48dp"
+        android:text="@string/Bolck_user" />
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/p2pmessage_more_click_delete"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minHeight="48dp"
+        android:minWidth="48dp"
+        android:text="@string/Delete_user" />
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/p2pmessage_more_click_super_block"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minWidth="48dp"
+        android:minHeight="48dp"
+        android:text="@string/super_block" />
+
+</LinearLayout>

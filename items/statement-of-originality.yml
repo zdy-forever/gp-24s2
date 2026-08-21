@@ -1,0 +1,98 @@
+## Pledge of Academic Integrity
+<DO NOT MODIFY THE STRUCTURE OF THIS FILE>
+    
+I am committed to being a person of integrity.
+    
+I pledge, as a member of the Australian National University community,
+to abide by and uphold the standards of academic integrity outlined in
+the ANU statement on [honesty and plagiarism](http://www.anu.edu.au/students/program-administration/assessments-exams/academic-honesty-plagiarism),
+and I am aware of the relevant
+[legislation](https://www.legislation.gov.au/Details/F2021L00997),
+  and understand the consequences of me breaching those rules. I confirm that my answers to the questions below will be truthful, up to date and complete.
+# for information & examples on how to fill this out correctly, see
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+# this document has been modified for the purpose of the COMP2100/6442 group assignment.
+
+## Research
+  We may use data related to this assignment, including this statement, for research purposes to improve computing education and student experience. Your participation is entirely voluntary and any personal information will be anonymized and kept confidential. Your identity will not be disclosed in any research reports or publications. To opt out of this research, uncheck below.
+- [X] I consent to use my data for research purposes.
+
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely our
+  own work, with the following exceptions:
+  
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment: "location_oval.png"
+    url: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Ffield_4351255&psig=AOvVaw2EroPmh5UGQl_7SSZgPJ8g&ust=1728385184279000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOCZ7tqO_IgDFQAAAAAdAAAAABAE
+    licence: fair use
+  - comment: "location_pin.png"
+    url: https://www.flaticon.com/free-icon/location_535239?term=location&page=1&position=2&origin=search&related_id=535239
+    licence: fair use
+  - comment: "location_stadium.png"
+    url: https://www.flaticon.com/free-icon/pin_149059?term=pin&page=1&position=2&origin=search&related_id=149059
+    licence: fair use
+  - comment: "location_mylocation.png"
+    url: https://www.flaticon.com/free-icon/target_565949?term=my+location&page=1&position=1&origin=search&related_id=565949
+    licence: fair use
+  - comment: "sample.map"
+    url: https://extract.bbbike.org/
+    licence: Open Database License (ODbL)
+  - comment: "canberra.pbf"
+    url: https://extract.bbbike.org/
+    licence: Open Database License (ODbL)
+  - comment: "sports_facilities_filtered.osm"
+    url: https://extract.bbbike.org/
+    licence: Open Database License (ODbL)
+  - comment : "mapsforge"
+    url: mapsforge.org
+    licence: GNU Lesser General Public License v3
+
+
+### Questions (answer before final submission):
+1. You (as a group) completed this work (tick the most appropriate option):
+  - [ ] by yourself (as a group) without the help of others;
+      [x] with Gen AI tools (e.g., ChatGPT, Co-Pilot).
+      [x] using online resources (e.g., Stackoverflow, blogs)
+
+2. If not completed by yourself only, how did the use of Gen AI tools (and which ones), contribute to completing this assignment?
+  - Tool(s): <chat GPT> 
+  It told me how localBoardcast works and how dialogView works and give me some sample code about dialog and Firestore query.
+  Taught me the grammar of Espresso.
+  Taught me how to simulate android environment in Junit test.
+  Taught me how to render vector map
+  Taught me how to call the functions of Mapsforge as it lacks good documentation
+  Optimization and improving code quality
+  
+3. How did they contribute to the completion of this assignment?
+  - <
+  1. find free icons online,some icons are from"freehttps://www.iconfinder.com/search?price=free",such as app logo.
+  2. import tree-data structures from lab.
+  3. learn basic idea of p2p message from video"https://www.bilibili.com/video/BV1ov411M7WR?vd_source=db4051f92cd9217d8de99b3a56d2c65c"
+
+  >
+
+
+4. How long did it take to complete this assignment (approximately, in hours)?
+  - <230+> hours
+
+
+
+# for each member, sign by inputting your name and uid here (remove any empty "name+uid" entries)
+members:
+  - name: Daoyan Zhu
+    uid: u7782042
+  - name: Hanjian Jin
+    uid: u7905060
+  - name: Shangyi Shen
+    uid: u7735222
+  - name: Lanping Hu
+    uid: u7904927
+  - name: Jiahe Qian
+    uid: u7403710
